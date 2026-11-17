@@ -1,0 +1,57 @@
+﻿civ,specialty,unique_units,team_bonus
+Armenians,Infantry and Naval civilization,"Composite Bowman (Foot Archer), Warrior Priest (Infantry)",Infantry +2 line of sight
+Aztecs,Infantry and Monk civilization,Jaguar Warrior (Infantry),Relics generate +33% gold
+Bengalis,Elephant and Naval civilization,Ratha (Mounted Archer),Trade Units generate +10% food in addition to gold
+Berbers,Cavalry and Naval civilization,"Camel Archer (Mounted Archer), Genitour (Mounted Skirmisher)",Genitour available at the Archery Range starting in Castle Age
+Bohemians,Gunpowder and Monk civilization,"Hussite Wagon (Siege Gunpowder Unit), Houfnice (Siege Gunpowder Unit)",Markets work +80% faster
+Britons,Foot Archer civilization,Longbowman (Foot Archer),Archery Ranges work +10% faster
+Bulgarians,Infantry and Cavalry civilization,Konnik (Cavalry),Blacksmiths work +80% faster
+Burgundians,Cavalry civilization,"Coustillier (Cavalry), Flemish Militia (Infantry)",Relics generate food in addition to gold
+Burmese,Infantry and Cavalry civilization,Arambai (Ranged Mounted Unit),Relics visible on the map at the start of the game
+Byzantines,Defensive civilization,Cataphract (Cavalry),Monks heal +100% faster
+Celts,Infantry and Siege civilization,Woad Raider (Infantry),Siege Workshops work +20% faster
+Chinese,Archer and Gunpowder civilization,"Chu Ko Nu (Foot Archer), Dragon Ship (Warship)",Farms +10% food
+Cumans,Cavalry civilization,Kipchak (Mounted Archer),Palisade Walls +33% HP
+Danes,Infantry and Siege civilization,Jomsviking (Infantry),Siege Weapons +2 line of sight
+Dravidians,Infantry and Naval civilization,"Urumi Swordsman (Infantry), Thirisadai (Warship)",Docks provide +5 population space
+Ethiopians,Archer civilization,Shotel Warrior (Infantry),Outposts +3 line of sight and cost no stone
+Franks,Cavalry civilization,Throwing Axeman (Infantry),Knight-line +2 line of sight
+Georgians,Defensive and Cavalry civilization,Monaspa (Cavalry),Building repairs cost -25%
+Goths,Infantry civilization,Huskarl (Infantry),Barracks work +20% faster
+Gurjaras,Cavalry and Camel civilization,"Chakram Thrower (Infantry), Shrivamsha Rider (Cavalry), Camel Scout (Cavalry)",Camel and Elephant Units train +25% faster
+Hindustanis,Camel and Gunpowder civilization,"Ghulam (Infantry), Imperial Camel Rider (Cavalry)",Scout Cavalry-line and Camel Units +2 attack vs. buildings
+Huns,Cavalry civilization,Tarkan (Cavalry),Stables work +20% faster
+Incas,Infantry civilization,Kamayuk (Infantry),Start with a free Llama
+Italians,Archer and Naval civilization,"Genoese Crossbowman (Foot Archer), Condottiero (Infantry)",Condottiero available at the Barracks in Imperial Age
+Japanese,Infantry civilization,Samurai (Infantry),Galley-line +4 line of sight
+Jurchens,Cavalry and Gunpowder civilization,"Iron Pagoda (Cavalry), Grenadier (Gunpowder Unit)",Gunpowder Units +2 line of sight
+Khitans,Infantry and Cavalry civilization,"Liao Dao (Infantry), Mounted Trebuchet (Siege Cavalry)",Infantry +2 attack vs. Ranged Soldiers
+Khmer,Siege and Elephant civilization,Ballista Elephant (Siege Cavalry),Scorpions +1 range
+Koreans,Defensive and Naval civilization,"War Wagon (Mounted Archer), Turtle Ship (Warship)",Villagers +3 line of sight
+Lithuanians,Cavalry and Monk civilization,"Leitis (Cavalry), Winged Hussar (Cavalry)",Monasteries work +20% faster
+Magyars,Cavalry civilization,Magyar Huszar (Cavalry),Mounted Archers train +25% faster
+Malay,Naval civilization,Karambit Warrior (Infantry),Docks +6 line of sight
+Malians,Infantry civilization,Gbeto (Infantry),Universities work +80% faster
+Mapuche,Cavalry and Counter-Units civilization,"Kona (Cavalry), Bolas Rider (Mounted Archer)",Spearman-line and Skirmishers +2 line of sight
+Mayans,Archer civilization,Plumed Archer (Foot Archer),Walls cost -50%
+Mongols,Cavalry Archer civilization,Mangudai (Mounted Archer),Scout Cavalry-line +2 line of sight
+Muisca,Archer and Monk civilization,"Guecha Warrior (Skirmisher), Temple Guard (Infantry)",Natural gold sources last +15% longer
+Persians,Cavalry civilization,"War Elephant (Cavalry), Savar (Cavalry)",Knight-line +2 attack vs. Ranged Soldiers
+Poles,Cavalry civilization,"Obuch (Infantry), Winged Hussar (Cavalry)",Scout Cavalry-line +1 attack vs. Ranged Soldiers
+Portuguese,Naval and Gunpowder civilization,"Organ Gun (Siege Gunpowder Unit), Caravel (Warship)",Technologies research +25% faster
+Romans,Infantry and Cavalry civilization,"Centurion (Cavalry), Legionary (Infantry)",Scorpions minimum range reduced
+Saracens,Camel and Naval civilization,Mameluke (Cavalry),Foot Archers and Skirmishers +2 attack vs. buildings
+Saxons,Infantry and Defensive civilization,Hearth Troop (Infantry),Repairers work +25% faster
+Shu,Archer and Siege civilization,"White Feather Guard (Infantry), War Chariot (Siege Weapon), Liu Bei (Hero)",Foot Archers +2 line of sight
+Sicilians,Infantry and Cavalry civilization,Serjeant (Infantry),Transport Ships +5 line of sight and cost -50%
+Slavs,Infantry and Siege civilization,Boyar (Cavalry),Military buildings (except Castles) provide +5 population space
+Spanish,Gunpowder and Monk civilization,"Conquistador (Mounted Gunner), Missionary (Mounted Monk)",Trade Units generate +25% gold
+Tatars,Cavalry Archer civilization,"Keshik (Cavalry), Flaming Camel (Siege Cavalry)",Mounted Archers +2 line of sight
+Teutons,Infantry and Defensive civilization,Teutonic Knight (Infantry),Units more resistant to conversion
+Tupi,Archer and Infantry civilization,"Blackwood Archer (Foot Archer), Ibirapema Warrior (Infantry)",Towers and Castles provide +10 population space
+Turks,Gunpowder civilization,Janissary (Foot Gunner),Gunpowder Units train +25% faster
+Varangians,Cavalry and Naval civilization,Jarl (Cavalry),Knight-line +1 attack vs. Infantry
+Vietnamese,Archer civilization,"Rattan Archer (Foot Archer), Imperial Skirmisher (Skirmisher)",Imperial Skirmisher upgrade available in Imperial Age
+Vikings,Infantry and Naval civilization,Berserk (Infantry),Docks cost -15%
+Wei,Cavalry civilization,"Tiger Cavalry (Cavalry), Xianbei Raider (Mounted Archer), Cao Cao (Hero)",Cavalry +2 attack vs. Siege Weapons
+Wu,Infantry and Naval civilization,"Fire Archer (Foot Archer), Jian Swordsman (Infantry), Sun Jian (Hero)",Houses built +100% faster
